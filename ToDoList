@@ -2,7 +2,8 @@ X Seperate database generator and braid comparisons into seperate files.
 X Add eigenvalue calculation and database field.
 X Generate simple queary file for individual braid relations.
 - ?? Add timeout interupts to accomadate split braid runs.
-- ?? Research .commit buffer size
+X Research .commit buffer size
 - Document file changes for each iteration and improve comments
 - ?? Add terminal I/O to (queary) files.
-- Implement triangular-only sublist sorting
+X Implement triangular-only sublist sorting
+- Implement loading status indicator for large runs
