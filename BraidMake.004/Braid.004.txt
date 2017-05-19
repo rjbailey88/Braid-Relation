@@ -1,0 +1,7 @@
+-Implementation of sorting sublists for determinant and eigenvalue sorts.
+
+-Addition of 'attributes' table to store matrix attributes for refrance and simplification of other programs.
+
+-String evaluation added to query file for generation of output matrices based on stored braid values.
+
+-Minor improvements to queary and database tester file.
